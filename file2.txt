@@ -1,1 +1,2 @@
 sample document
+changed data

@@ -1,5 +1,1 @@
-a="Thanush"
-b="kumar"
-c=merge
-a+b=Thanush kumar
-a+c=Thanush merge
+thanushkumar 

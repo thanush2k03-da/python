@@ -1,2 +1,3 @@
 a="Thanush"
 b="kumar"
+c=merge
